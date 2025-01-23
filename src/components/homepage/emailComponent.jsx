@@ -13,7 +13,7 @@ const EmailComponent = () => {
 		<React.Fragment>
 			<div onClick={handleClick} class="letter-image">
                 <div className="text"> 
-                    <h2>Let's Collaborate!</h2>
+                    <h2>Let's Connect!</h2>
                 </div>
                 <div class="animated-mail">
                     <div class="back-fold"></div>

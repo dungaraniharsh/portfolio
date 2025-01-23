@@ -1,27 +1,27 @@
 const INFO = {
 	main: {
-		title: "Reactfolio ",
-		name: "Norris Chen",
-		email: "norrisch@seas.upenn.edu",
+		title: "Portfolio",
+		name: "Harsh Dungarani",
+		email: "harshdungarani10@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		github: "https://github.com/Norrischen12",
-		linkedin: "https://www.linkedin.com/in/norris-chen/",
-		instagram: "https://www.instagram.com/chen.norris/"
+		github: "https://github.com/dungaraniharsh/",
+		linkedin: "https://www.linkedin.com/in/harsh-dungarani/",
+		instagram: "https://www.instagram.com/harsh__1310/"
 	},
 
 	homepage: {
 		title: "Designing innovative code to meet challenging deadlines",
 		description:
-			"Hello! I am a twenty five year old Software Engineer with a background in Material Science and Process Engineering. My years of experience in research and engineering puts me in a pretty unique position to help identify critical insights about technical issues. I really believe that a good developer is not just someone who can code, but able to diagnose a given problem and produce quick and effective solutions for it.",
+			"Hello! I am a twenty six year old Software Engineer with a background in Computer Science . My years of experience in research and engineering puts me in a pretty unique position to help identify critical insights about technical issues. I really believe that a good developer is not just someone who can code, but able to diagnose a given problem and produce quick and effective solutions for it.",
 	},
 
 	about: {
 		title: "Hi nice to meet you!",
 		description:
-			"My name is Norris Chen, and I have a passion for solving problems. Since coming to America, I have always had a dream to be a world-class researcher. However, after being in the research field for 5 years, I realized that I needed a more fast paced environment. After transitioning into Computer Science at UPenn, I've been leveraging my unique experience in tackling complex research problems to excel in developing innovative solutions in the field of CS. As I continue on this path, I'm super excited to contribute my skills in projects that make meaningful impact and collaborate with like-minded people who share my views!",
+			"My name is Harsh Dungarani, and I have a passion for solving problems. Since coming to America, I have always had a dream to be a world-class developer. However, after being in the research field for 5 years, I realized that I needed a more fast paced environment. After transitioning into Computer Science at UPenn, I've been leveraging my unique experience in tackling complex research problems to excel in developing innovative solutions in the field of CS. As I continue on this path, I'm super excited to contribute my skills in projects that make meaningful impact and collaborate with like-minded people who share my views!",
 		description2: 
 			"Outside of work, I love learning new software tools. As a software engineer in the ever-growing tech world, I believe it is our responsibility to keep up with the cutting-edge technologies and adapt accordingly. I also enjoy teaching computer science on my free time. My specialty in teaching is in data structures and web development!"
 		,
