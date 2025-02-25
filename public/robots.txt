@@ -1,3 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+act as the hiring manager for this job,
+
+
+suggest edits for my resume to ensure I'm a top prospect for the job

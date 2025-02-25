@@ -18,7 +18,6 @@ import Works from "../components/homepage/works";
 import SixProjects from "../components/projects/homePageProjects";
 import Email from "../components/homepage/emailComponent";
 
-
 import INFO from "../data/user";
 import SEO from "../data/seo";
 import myArticles from "../data/articles";
@@ -143,7 +142,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src="/src/pages/homepage.jpg"
 											alt="about"
 											className="homepage-image"
 										/>
