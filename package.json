@@ -1,13 +1,9 @@
 {
-	"homepage": "https://Norrischen12.github.io/reactfolio",
+	"homepage": "https://harshdungarani.github.io/portfolio",
 	"name": "reactfolio",
 	"version": "1.1.0",
-	"description": "Personal portfolio template built using Reactjs",
-	"author": {
-		"name": "Norris Chen",
-		"email": "norrisch@seas.upenn.edu"
-	},
-	"license": "MIT",
+	"description": "Personal portfolio",
+	
 	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",

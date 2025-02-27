@@ -21,6 +21,8 @@ import Email from "../components/homepage/emailComponent";
 import INFO from "../data/user";
 import SEO from "../data/seo";
 import myArticles from "../data/articles";
+import main_logo from "../components/common/logo.png";
+import homepage_image from "../components/homepage/homepage.jpg";
 
 import "./styles/homepage.css";
 import { TypewriterClass } from "typewriter-effect";
@@ -112,7 +114,7 @@ const Homepage = () => {
 				<div className="content-wrapper">
 					<div className="homepage-logo-container">
 						<div style={logoStyle}>
-							<Logo width={logoSize} link={false} />
+							<Logo width={logoSize} src={main_logo} />
 						</div>
 					</div>
 
@@ -142,7 +144,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="/src/pages/homepage.jpg"
+											src={homepage_image}
 											alt="about"
 											className="homepage-image"
 										/>
