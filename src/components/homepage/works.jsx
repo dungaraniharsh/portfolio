@@ -19,11 +19,11 @@ const Works = () => {
 								alt="Wharton"
 								className="work-image"
 							/>
-							<div className="work-title">Wharton School</div>
+							<div className="work-title">Doodle Equity, LLC.</div>
 							<div className="work-subtitle">
-								Full Stack Engineer
+								IT Analyst
 							</div>
-							<div className="work-duration">2023 - Present</div>
+							<div className="work-duration">2024 - Present</div>
 						</div>
 
 						<div className="work">
@@ -32,11 +32,11 @@ const Works = () => {
 								alt="work-logo"
 								className="work-image"
 							/>
-							<div className="work-title">GRASP Laboratory</div>
+							<div className="work-title">SFHAX INC</div>
 							<div className="work-subtitle">
-								Integration Engineer
+								Software Engineer 
 							</div>
-							<div className="work-duration">2022 - 2023</div>
+							<div className="work-duration">2023 - 2024</div>
 						</div>
 
 						<div className="work">
@@ -45,11 +45,11 @@ const Works = () => {
 								alt="work-logo"
 								className="work-image"
 							/>
-							<div className="work-title">KL Coatings</div>
+							<div className="work-title">Weapplinse Technology</div>
 							<div className="work-subtitle">
-								Process Engineer
+								Full-stack Developer
 							</div>
-							<div className="work-duration">2020 - 2021</div>
+							<div className="work-duration">2020 - 2022</div>
 						</div>
 					</div>
 				}

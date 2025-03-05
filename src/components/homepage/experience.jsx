@@ -16,12 +16,12 @@ const Experience = () => {
                                 <p>Python</p>
                             </div>
                             <div>
-                                90%
+                                70%
                             </div>
 
                         </div>
-                        <div className="progress-line" data-percent="90%">
-                            <span style={{width: "90%"}}></span>
+                        <div className="progress-line" data-percent="70%">
+                            <span style={{width: "70%"}}></span>
                         </div>
                     </div>
 
@@ -50,12 +50,12 @@ const Experience = () => {
                                 </p>
                             </div>
                             <div>
-                                90%
+                                85%
                             </div>
 
                         </div>
-                        <div className="progress-line" data-percent="90%">
-                            <span style={{width: "90%"}}></span>
+                        <div className="progress-line" data-percent="85%">
+                            <span style={{width: "85%"}}></span>
                         </div>
                     </div>
 
@@ -86,12 +86,12 @@ const Experience = () => {
                                 <p>Java</p>
                             </div>
                             <div>
-                                85%
+                                75%
                             </div>
 
                         </div>
-                        <div className="progress-line" data-percent="85%">
-                            <span style={{width: "85%"}}></span>
+                        <div className="progress-line" data-percent="75%">
+                            <span style={{width: "75%"}}></span>
                         </div>
                     </div>
 
