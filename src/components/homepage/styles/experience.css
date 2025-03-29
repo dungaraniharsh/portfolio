@@ -103,7 +103,7 @@
     font-weight: 600;
     font-size: 16px;
     line-height: 22px;
-    color: #15295f;
+    color: var(--secondary-color);
     opacity: 1;
     -webkit-animation: showText 0.5s 1s linear forwards;
     animation: showText 0.5s 1s linear forwards;
@@ -130,7 +130,7 @@
     margin-top: 7px;
     height: 10px;
     width: 100%;
-    background-color: #cdcdcd;
+    background-color: #403420;
     border-radius: 50px;
     position: relative;
 }
@@ -145,7 +145,7 @@
     height: 100%;
     border-radius: 50px;
     position: absolute;
-    background-color: var(--link-color);
+    background-color: #ffd369;
     transition: 1s all;
 }
 
@@ -159,7 +159,7 @@
     margin-top: 7px;
     height: 10px;
     width: 100%;
-    background-color: #cdcdcd;
+    background-color: #2b1a3c;
     border-radius: 50px;
     position: relative;
 }
@@ -174,7 +174,7 @@
     height: 100%;
     border-radius: 50px;
     position: absolute;
-    background-color: #800080;
+    background-color: #8A2BE2;
     transition: 1s all;
 }
 

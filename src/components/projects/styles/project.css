@@ -12,7 +12,7 @@
 }
 
 .project:hover {
-	background: #fafafa;
+	background: #1e1e1e;
 	opacity: 1;
 	transition: background-color 0.3s ease-in-out;
 }
@@ -47,7 +47,7 @@
 	color: var(--secondary-color);
 }
 .project-technologies {
-	
+	color: #ffffff;
 }
 
 .project-link {

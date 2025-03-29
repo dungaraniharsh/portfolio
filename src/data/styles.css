@@ -1,13 +1,20 @@
 :root {
+
+		/* ------- colors ------- */
+		--primary-color: #E0E0E0; /* Soft White Text */
+		--secondary-color: #B0B0B0; /* Muted Gray */
+		--tertiary-color: #323232; /* Dark Gray Border */
+		--quaternary-color: #00ADB5; /* Cyan Accent */
+		--link-color: #FFD369; /* Warm Yellow */
+	
 	/* ------- colors ------- */
-	--primary-color: #27272a;
+		/* --tertiary-color: #acacb4; */
+	/* --primary-color: #27272a;
 	--secondary-color: #65656d;
-	/* --tertiary-color: #acacb4; */
 
 	--tertiary-color: #1e1729;
 	--quaternary-color: #e4e4e7;
-	--link-color: #14b8a6;
-	/* ---------------------- */
+	--link-color: #14b8a6; */
 
 	/* ------- fonts ------- */
 	--primary-font: "Heebo", sans-serif;

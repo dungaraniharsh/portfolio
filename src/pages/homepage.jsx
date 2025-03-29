@@ -92,7 +92,7 @@ const Homepage = () => {
 		position: stayLogo ? "fixed" : "relative",
 		top: stayLogo ? "3vh" : "auto",
 		zIndex: 999,
-		border: stayLogo ? "1px solid white" : "none",
+		border: stayLogo ? "2px solid white" : "none",
 		borderRadius: stayLogo ? "50%" : "none",
 		boxShadow: stayLogo ? "0px 4px 10px rgba(0, 0, 0, 0.25)" : "none",
 	};
@@ -211,16 +211,15 @@ const Homepage = () => {
 								</div>
 								)}
 						</div>
-						
+								
 						<div className="homepage-after-title">
+							<div className="homepage-works">
+								<Works/>
+							</div>
+							
 							<div className="homepage-articles">
 								<Email></Email>
-							</div>
-
-							<div className="homepage-works">
-								<Works />
-							
-							</div>
+							</div>	
 						</div>
 
 						<div className="page-footer">

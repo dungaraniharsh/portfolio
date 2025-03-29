@@ -2,6 +2,9 @@ import React from "react";
 import { faBriefcase } from "@fortawesome/free-solid-svg-icons";
 
 import Card from "../common/card";
+import logo from "../homepage/logo.png";
+import logo2 from "../homepage/logo2.png";
+import logo3 from "../homepage/logo3.jpg";
 
 import "./styles/works.css";
 
@@ -15,7 +18,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/1200px-UPenn_shield_with_banner.svg.png"
+								src={logo}
 								alt="Wharton"
 								className="work-image"
 							/>
@@ -28,7 +31,7 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/1200px-UPenn_shield_with_banner.svg.png"
+								src={logo2}
 								alt="work-logo"
 								className="work-image"
 							/>
@@ -41,7 +44,7 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="https://media.licdn.com/dms/image/C560BAQH8GW4h3Gl7jg/company-logo_200_200/0/1630611306156?e=2147483647&v=beta&t=XUUlgZPSjtgDCqzMbFkz7YBsCkwWZJ_YYTmP0b25ZTc"
+								src={logo3}
 								alt="work-logo"
 								className="work-image"
 							/>

@@ -1,5 +1,9 @@
 import React from "react";
 import './styles/experience.css';
+import leaderLogo from '../homepage/logos/leadership-svg.svg';
+import timeLogo from '../homepage/logos/time-management-watch-svg.svg';
+import comLogo from '../homepage/logos/comlogo.svg';
+import crossLogo from '../homepage/logos/crosslogo.svg';
 
 const Experience = () => {
     return (
@@ -28,7 +32,7 @@ const Experience = () => {
                     <div className="experience-item">
                         <div className="experience-info">
                             <div className="experience-logo-name">
-                            <img className="experience-logo" alt="logo" src="https://media.istockphoto.com/id/1180882238/vector/success-logo.jpg?s=612x612&w=0&k=20&c=brO28PRCR_73Oj-qVIGDzYxfDwZj17t7VrLb-JiGH2Q="></img>
+                            <img className="experience-logo" alt="logo" src={leaderLogo}></img>
                                 <p>Leadership</p>
                             </div>
                             <div>
@@ -64,7 +68,7 @@ const Experience = () => {
                     <div className="experience-item">
                         <div className="experience-info">
                             <div className="experience-logo-name">
-                                <img className="experience-logo" alt="logo" src="https://static.vecteezy.com/system/resources/previews/010/948/779/original/time-management-logo-template-check-mark-with-clock-icon-design-free-vector.jpg"></img>
+                                <img className="experience-logo" alt="logo" src={timeLogo}></img>
                                 <p>Time Management</p>
                             </div>
                             <div>
@@ -99,7 +103,7 @@ const Experience = () => {
                     <div className="experience-item">
                         <div className="experience-info">
                             <div className="experience-logo-name">
-                                <img className="experience-logo" alt="logo" src="https://t4.ftcdn.net/jpg/05/63/63/55/360_F_563635598_WBC0yMyndr4Ze9aTJDa5AYvV2fj0ZoWA.jpg"></img>
+                                <img className="experience-logo" alt="logo" src={comLogo}></img>
                                 <p>Communication</p>
                             </div>
                             <div>
@@ -132,7 +136,7 @@ const Experience = () => {
                     <div className="experience-item">
                         <div className="experience-info">
                             <div className="experience-logo-name">
-                                <img className="experience-logo" alt="logo" src="https://www.pharma-mkting.com/wp-content/uploads/2019/06/Collabortaionimg-smaller.jpg"></img>
+                                <img className="experience-logo" alt="logo" src={crossLogo}></img>
                                 <p>Cross-Functional Collaboration</p>
                             </div>
                             <div>
