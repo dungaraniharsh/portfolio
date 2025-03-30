@@ -62,6 +62,7 @@ const About = () => {
 								<p className="subtitle about-subtitle2">
 									{INFO.about.description2}
 								</p>
+								
 							</div>
 
 							<div className="about-left-side">

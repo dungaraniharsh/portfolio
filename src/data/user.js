@@ -15,17 +15,16 @@ const INFO = {
 	homepage: {
 		title: "Designing innovative code to meet challenging deadlines",
 		description:
-			"Hello! I am a twenty six year old Software Engineer with a background in Computer Science . My years of experience in research and engineering puts me in a pretty unique position to help identify critical insights about technical issues. I really believe that a good developer is not just someone who can code, but able to diagnose a given problem and produce quick and effective solutions for it.",
+			"Hello! I’m a Software Engineer with a background in Computer Science. My experience in both research and engineering gives me a unique ability to analyze complex technical challenges and uncover key insights. I believe that being a great developer goes beyond just writing code—it's about diagnosing problems effectively and delivering efficient, impactful solutions.",
 	},
 
 	about: {
 		title: "Hi nice to meet you!",
 		description:
-			"My name is Harsh Dungarani, and I have a passion for solving problems. Since coming to America, I have always had a dream to be a world-class developer. However, after being in the research field for 5 years, I realized that I needed a more fast paced environment. After transitioning into Computer Science at UPenn, I've been leveraging my unique experience in tackling complex research problems to excel in developing innovative solutions in the field of CS. As I continue on this path, I'm super excited to contribute my skills in projects that make meaningful impact and collaborate with like-minded people who share my views!",
+			"I’m Harsh Dungarani, a passionate developer and designer who loves solving complex problems through technology. After starting my journey in research, I realized I thrived in fast-paced, hands-on development environments. This led me to transition into Computer Science at Cal State San Marcos, where I combined my analytical thinking with creativity to build scalable and user-friendly solutions. My experience spans full-stack development, cloud computing, and UI/UX design, allowing me to bridge the gap between functionality and great user experiences.",
 		description2: 
-			"Outside of work, I love learning new software tools. As a software engineer in the ever-growing tech world, I believe it is our responsibility to keep up with the cutting-edge technologies and adapt accordingly. I also enjoy teaching computer science on my free time. My specialty in teaching is in data structures and web development!"
-		,
-	},
+			"I take pride in developing software that is not only efficient and secure but also intuitive and visually engaging. Whether it's designing sleek, user-friendly interfaces or building robust backend systems, I enjoy crafting seamless digital experiences. Beyond work, I’m always exploring new technologies and sharing knowledge—especially in web development and data structures—to help others grow in the field. I'm excited to collaborate with like-minded professionals who share a passion for innovation and impactful design.",
+		},
 	
 	resume: {
 		title: "Here is my resume!",
