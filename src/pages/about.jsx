@@ -5,6 +5,7 @@ import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
 import Logo from "../components/common/logo";
 import Socials from "../components/about/socials";
+import Resume_img from "../components/about/Resume.jpg"
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
@@ -46,7 +47,7 @@ const About = () => {
 						<div className="about-logo">
 							<Logo width={46} />
 						</div>
-					</div>
+					</div>	
 
 					<div className="about-container">
 						<div className="about-main">
@@ -66,11 +67,15 @@ const About = () => {
 							<div className="about-left-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
+									<a href={require("../components/about/Resume.pdf")} download="resume.pdf">
 										<img
-											src="Teaching.jpg"
-											alt="Teaching Picture"
+											src={Resume_img}
+											alt="Resume Picture"
 											className="about-image"
+
 										/>
+										 <span className="hover-text">Download Resume</span>
+										</a>
 									</div>
 								</div>
 
