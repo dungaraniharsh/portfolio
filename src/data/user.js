@@ -35,22 +35,22 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Critical Healthcare Allocation in Sierra Leone",
+			title: "Enhancing Network Security through Optimized Classification Models",
 			description:
-				"We tackle the dilema of plunging age expectancy for Sierra Leone by providing a new type of machine learning model to fulfill the demands for critical healthcare supplies",
+				"In our research, we explored how different machine learning models can identify patterns in network traffic. We tested Random Forest, MLP, and Logistic Regression approaches using two important security datasets - UNSW-NB15 and CICIDS2017. Our paper walks through our entire process from selecting data to fine-tuning our models, offering practical insights for anyone working in network security",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			technologies:"#Flask #HTML #CSS #Web Scraping #DHIS API #Decision Aware Learning",
+			technologies:" #Python #NetworkSecurity #CyberSecurity #DataPreprocessing #AI #MLmodels #DataAnalytics",
 			linkText: "View Paper",
-			link: "https://arxiv.org/abs/2211.08507",
+			link: "https://scholarworks.calstate.edu/concern/theses/pn89df73b",
 		},
 		{
-			title: "MCIT-Connect",
+			title: "Ads Log Storage using DApp",
 			description:
-				"I led a group of software engineers to create a personalized friends app that's committed to satisfy everyone's preferences on the people they meet",
+				"I led a team in developing a blockchain-based DApp using React.js and Ethereum to secure video streaming ad logs. We integrated IPFS and Solidity smart contracts to build a tamper-proof system, streamlining collaboration for advertisers and broadcasters. My role included overseeing technical architecture and ensuring seamless blockchain workflows",
 			logo: "https://cdn.worldvectorlogo.com/logos/react-1.svg",
-			technologies:"#React #JavaScript #Figma #Fullstack #UI/UX #Machine Learning #Pairing Algorithm #AGILE",
-			linkText: "View Website",
-			link: "https://mcit-connect.com",
+			technologies:"#ReactJS #NodeJS #IPFS #AWS #DApp #Solidity #Truffle #Ganache #Metamask #Ethereum",
+			linkText: "View Project",
+			link: "https://github.com/dungaraniharsh/Ads-Log-Storage-using-DApp",
 		},
 		{
 			title: "Pennstagram",
@@ -62,13 +62,13 @@ const INFO = {
 			link: "https://github.com/Norrischen12",
 		},
 		{
-			title: "Organisms",
-			description:
-				"I competed in an resource management game where the developers are required to come up with complex algorithms given a set of actions and limited resources. Using reinforcement learning and AGILE development, we were able to place second in the competition",
+			title: "Home Theater Facade",
+			description: 
+				"Designed and implemented the Facade Pattern in Java to simplify the control of a home theater system. This project integrates multiple components, including an amplifier, projector, screen, DVD player, tuner, and popcorn popper, into a unified interface. By encapsulating complex interactions, the system allows users to start and manage their home theater setup effortlessly with a single command.",
 			logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png",
-			technologies:"#Java #Stack #Stochastic Predictions #Reinforcement Learning",
+			technologies:"#Java #DesignPatterns #FacadePattern #OOP #SoftwareArchitecture",
 			linkText: "View Project",
-			link: "https://github.com/Norrischen12/OrganismCompetition.git",
+			link: "https://github.com/dungaraniharsh/Home-Theater-Facade",
 		},
 		{
 			title: "Pipe Shell",
@@ -80,13 +80,13 @@ const INFO = {
 			link: "https://github.com/Norrischen12/PipeShell.git",
 		},
 		{
-			title: "Multi-Threaded HTTP Server",
+			title: "Bioactivity Potency Predictor",
 			description:
-				"Developed a fully functional backend web server that processes search queries and handles concurrent connections with ease",
-			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png",
-			technologies:"#C++ #POSIX #MultiThreading #HTTP Protocols #Web Servers #Security",
+				"I developed a Bioactivity Potency Predictor using Multiple Linear Regression (MLR) with Genetic Algorithm (GA)-based feature selection. I implemented data preprocessing, model validation with R², Q² metrics, and Leave-One-Out Cross-Validation (LOOCV) to predict pIC50 values. I optimized the genetic algorithm and improved error handling to enhance accuracy and efficiency",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			technologies:"#Python #MachineLearning #LinearRegression #Bioinformatics #NumPy #ScikitLearn",
 			linkText: "View Project",
-			link: "https://github.com/Norrischen12/HTTPServer.git",
+			link: "https://github.com/dungaraniharsh/Bioactivity-Potency-Predictor",
 		},
 
 		{
