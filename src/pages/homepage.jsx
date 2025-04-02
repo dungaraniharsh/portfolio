@@ -20,12 +20,10 @@ import Email from "../components/homepage/emailComponent";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
-import myArticles from "../data/articles";
 import main_logo from "../components/common/logo.png";
 import homepage_image from "../components/homepage/homepage.jpg";
 
 import "./styles/homepage.css";
-import { TypewriterClass } from "typewriter-effect";
 
 const Homepage = () => {
 	const [stayLogo, setStayLogo] = useState(false);

@@ -68,14 +68,13 @@ const About = () => {
 							<div className="about-left-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
-									<a href={require("../components/about/Resume.pdf")} download="resume.pdf">
-										<img
-											src={Resume_img}
-											alt="Resume Picture"
-											className="about-image"
-
-										/>
-										 <span className="hover-text">Download Resume</span>
+										<a href={require("../components/about/Resume.pdf")} download="Resume.pdf">
+											<img
+												src={Resume_img}
+												alt="Resume"
+												className="about-image"
+											/>
+											<span className="hover-text">Download Resume</span>
 										</a>
 									</div>
 								</div>
