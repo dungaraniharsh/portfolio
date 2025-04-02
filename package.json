@@ -3,7 +3,6 @@
 	"name": "reactfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio",
-	
 	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
