@@ -1,5 +1,5 @@
 {
-	"homepage": "https://harshdungarani.github.io",
+	"homepage": "https://harshdungarani.github.io/portfolio/",
 	"name": "reactfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio",
@@ -26,7 +26,7 @@
 	"scripts": {
 		"start": "react-scripts start",
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build --branch=main",
+		"deploy": "gh-pages -d dist",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
