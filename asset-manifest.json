@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0f435058.css",
+    "main.js": "/portfolio/static/js/main.04ae3892.js",
+    "static/js/787.b008a081.chunk.js": "/portfolio/static/js/787.b008a081.chunk.js",
+    "static/media/Resume.jpg": "/portfolio/static/media/Resume.43e5c27c86544396aa05.jpg",
+    "static/media/homepage.jpg": "/portfolio/static/media/homepage.f495297a018dd34aa88d.jpg",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.ac65e35ea71f5b108b5c.pdf",
+    "static/media/logo3.jpg": "/portfolio/static/media/logo3.8e4ea834a3df4f4e3fba.jpg",
+    "static/media/logo2.png": "/portfolio/static/media/logo2.bc39fd7c03f849c8740f.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.7519bfd4a4daa710e581.png",
+    "static/media/leadership-svg.svg": "/portfolio/static/media/leadership-svg.04e0da7896ecabddabc2c85efe60ae88.svg",
+    "static/media/crosslogo.svg": "/portfolio/static/media/crosslogo.9ff911f9d8e814c500bab4614a1d2ead.svg",
+    "static/media/time-management-watch-svg.svg": "/portfolio/static/media/time-management-watch-svg.41461f9deb6ad73af3ef14d67d9a62ef.svg",
+    "static/media/comlogo.svg": "/portfolio/static/media/comlogo.76096383d509a0b29a829cb6a12e68df.svg",
+    "index.html": "/portfolio/index.html",
+    "main.0f435058.css.map": "/portfolio/static/css/main.0f435058.css.map",
+    "main.04ae3892.js.map": "/portfolio/static/js/main.04ae3892.js.map",
+    "787.b008a081.chunk.js.map": "/portfolio/static/js/787.b008a081.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f435058.css",
+    "static/js/main.04ae3892.js"
+  ]
+}
