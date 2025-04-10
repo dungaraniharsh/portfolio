@@ -52,13 +52,13 @@ const INFO = {
 			link: "https://github.com/dungaraniharsh/Ads-Log-Storage-using-DApp",
 		},
 		{
-			title: "Pennstagram",
+			title: "Real Estate DApp",
 			description:
-				"We provided an social media app for people at the University of Pennsylvania to express their thoughts and engage with their peers",
-			logo: "https://cdn.worldvectorlogo.com/logos/react-1.svg",
-			technologies:"#React #JWT Tokens #Authentication #MongoDB #JavaScipt #HTML #CSS #AWS",
+				"I built a Decentralized Application (DApp) to modernize the traditional real estate system by enabling secure, peer-to-peer property transactions using blockchain technology. The platform enhances transparency, eliminates intermediaries, and leverages AI to provide dynamic pricing insights and personalized recommendations. This solution not only improves efficiency but also contributes to a more sustainable and tech-forward real estate ecosystem.",
+			logo: "https://img.icons8.com/?size=100&id=AU6Wc7r56Fxz&format=png&color=000000",
+			technologies:"#NextJS #NodeJS #AI #ChatBot #Blockchain #SmartContracts #Ethereum #DApp #Web3",
 			linkText: "View Project",
-			link: "https://github.com/Norrischen12",
+			link: "https://real-trado.vercel.app/",
 		},
 		{
 			title: "Home Theater Facade",
