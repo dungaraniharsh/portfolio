@@ -52,6 +52,15 @@ const INFO = {
 			link: "https://github.com/dungaraniharsh/Ads-Log-Storage-using-DApp",
 		},
 		{
+			title: "Banking System",
+			description:
+				"I worked with my team on a full-stack Java banking application as part of our Software Engineering course. The app allows users to manage transactions, apply for loans, and create cards. We used Maven, Hibernate, and JavaFX, and set it up to run smoothly with an SQLite databas",
+			logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png",
+			technologies:"#Java #Maven #Hibernate #JavaFX #SQLite #TeamCollaboration #DatabaseIntegration",
+			linkText: "View Project",
+			link: "https://github.com/dungaraniharsh/Banking-System",
+		},
+		{
 			title: "Real Estate DApp",
 			description:
 				"I built a Decentralized Application (DApp) to modernize the traditional real estate system by enabling secure, peer-to-peer property transactions using blockchain technology. The platform enhances transparency, eliminates intermediaries, and leverages AI to provide dynamic pricing insights and personalized recommendations. This solution not only improves efficiency but also contributes to a more sustainable and tech-forward real estate ecosystem.",
@@ -88,15 +97,7 @@ const INFO = {
 			link: "https://github.com/dungaraniharsh/Bioactivity-Potency-Predictor",
 		},
 
-		{
-			title: "Banking System",
-			description:
-				"I worked with my team on a full-stack Java banking application as part of our Software Engineering course. The app allows users to manage transactions, apply for loans, and create cards. We used Maven, Hibernate, and JavaFX, and set it up to run smoothly with an SQLite databas",
-			logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png",
-			technologies:"#Java #Maven #Hibernate #JavaFX #SQLite #TeamCollaboration #DatabaseIntegration",
-			linkText: "View Project",
-			link: "https://github.com/dungaraniharsh/Banking-System",
-		},
+		
 
 
 	],
