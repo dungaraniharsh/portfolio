@@ -89,13 +89,13 @@ const INFO = {
 		},
 
 		{
-			title: "Plagiarism Check",
+			title: "Banking System",
 			description:
-				"Developed a plagiarism checker with Java due to the all the classes being online and students being able to copy off each other easier",
+				"I worked with my team on a full-stack Java banking application as part of our Software Engineering course. The app allows users to manage transactions, apply for loans, and create cards. We used Maven, Hibernate, and JavaFX, and set it up to run smoothly with an SQLite databas",
 			logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png",
-			technologies:"#Java #HashMap #N-Grams #TreeSet ",
+			technologies:"#Java #Maven #Hibernate #JavaFX #SQLite #TeamCollaboration #DatabaseIntegration",
 			linkText: "View Project",
-			link: "https://github.com/Norrischen12/PlagiarismCheck.git",
+			link: "https://github.com/dungaraniharsh/Banking-System",
 		},
 
 
