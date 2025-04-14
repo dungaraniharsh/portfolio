@@ -70,13 +70,13 @@ const INFO = {
 			link: "https://github.com/dungaraniharsh/Home-Theater-Facade",
 		},
 		{
-			title: "Pipe Shell",
+			title: " Finance Manager",
 			description:
-				"I built a mini UNIX Shell to perform automated low level system tasks with ease. This program can simplify complex workflows into a streamlined operation by integrating parallel programming with threads",
-			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png",
-			technologies:"#Linux/Unix #POSIX #Shell Scripting #Low Level System",
+				"I created a Finance Manager in Java that lets users add income and expenses, view their history, and track trends. It runs in the command line and saves all data in a text file. I made it easy to use for beginners and compatible with any Java IDE",
+			logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png",
+			technologies:"#Java #OOP #CLIApplications #FileHandling #JDK #TextFileStorage #FinancialTracking",
 			linkText: "View Project",
-			link: "https://github.com/Norrischen12/PipeShell.git",
+			link: "https://github.com/dungaraniharsh/FinanceManager",
 		},
 		{
 			title: "Bioactivity Potency Predictor",
