@@ -24,7 +24,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Doodle Equity, LLC.</div>
 							<div className="work-subtitle">
-								IT Analyst
+								SDE
 							</div>
 							<div className="work-duration">2024 - Present</div>
 						</div>
@@ -39,7 +39,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Software Engineer 
 							</div>
-							<div className="work-duration">2023 - 2024</div>
+							<div className="work-duration">2022 - 2024</div>
 						</div>
 
 						<div className="work">
@@ -52,7 +52,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Full-stack Developer
 							</div>
-							<div className="work-duration">2020 - 2022</div>
+							<div className="work-duration">2019 - 2022</div>
 						</div>
 					</div>
 				}
