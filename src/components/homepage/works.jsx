@@ -5,6 +5,7 @@ import Card from "../common/card";
 import logo from "../homepage/logo.png";
 import logo2 from "../homepage/logo2.png";
 import logo3 from "../homepage/logo3.jpg";
+import logo4 from "../homepage/logo4.png";
 
 import "./styles/works.css";
 
@@ -18,6 +19,19 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src={logo4}
+								alt="Wharton"
+								className="work-image"
+							/>
+							<div className="work-title">Watkins Wellness</div>
+							<div className="work-subtitle">
+								Industrial Design
+							</div>
+							<div className="work-duration">2025 - Present</div>
+						</div>
+
+						<div className="work">
+							<img
 								src={logo}
 								alt="Wharton"
 								className="work-image"
@@ -26,7 +40,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								SDE
 							</div>
-							<div className="work-duration">2024 - Present</div>
+							<div className="work-duration">2024 - 2025</div>
 						</div>
 
 						<div className="work">
@@ -50,7 +64,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Weapplinse Technology</div>
 							<div className="work-subtitle">
-								Full-stack Developer
+								Front-End Developer
 							</div>
 							<div className="work-duration">2019 - 2022</div>
 						</div>
