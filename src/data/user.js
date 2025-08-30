@@ -9,6 +9,7 @@ const INFO = {
 	socials: {
 		github: "https://github.com/dungaraniharsh/",
 		linkedin: "https://www.linkedin.com/in/harsh-dungarani/",
+		figma: "https://www.figma.com/@harshdungarani",
 		instagram: "https://www.instagram.com/harsh__1310/"
 	},
 

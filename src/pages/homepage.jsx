@@ -5,6 +5,7 @@ import Typewriter from "typewriter-effect";
 import { faMailBulk } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
+	faFigma,
 	faGithub,
 	faInstagram,
 	faLinkedin
@@ -170,6 +171,16 @@ const Homepage = () => {
 							>
 								<FontAwesomeIcon
 									icon={faLinkedin}
+									className="homepage-social-icon"
+								/>
+							</a>
+							<a
+								href={INFO.socials.figma}
+								target="_blank"
+								rel="noreferrer"
+							>
+								<FontAwesomeIcon
+									icon={faFigma}
 									className="homepage-social-icon"
 								/>
 							</a>
